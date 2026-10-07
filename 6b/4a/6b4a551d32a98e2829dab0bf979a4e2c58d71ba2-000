@@ -1,0 +1,11 @@
+# Protocole Lighting de Matthieu (7 October 2026)
+
+Protocole simple et direct pour répondre aux formulaires et entretiens Lighting Artist UE5 :
+
+## English (7 October 2026)
+"My lighting protocol is straightforward: I test 3 drastically different lighting scenarios across multiple camera compositions (starting from 3-point lighting, natural sun-to-sky ratio balancing, and volumetric atmospheric keying), fine-tune the values in real time through custom UI sliders with Lumen, and then profile performance and debug light leaks or conflicting overrides to lock in a clean, production-ready scene."
+
+## En 3 étapes simples (7 October 2026)
+1. **3 setups initiaux testés** : 3-point lighting, ratio naturel soleil/ciel (sun-to-sky balance), et contre-jour volumétrique (volumetric rim/key).
+2. **Itération au curseur** : ajustement des valeurs en direct via sliders et UI personnalisée sous Lumen sur plusieurs angles de caméra.
+3. **Optimisation & debug** : profilage des perfs temps réel et correction des fuites de lumière (light leaks) et conflits d'overrides pour garantir qu'aucun volume ne s'écrase.

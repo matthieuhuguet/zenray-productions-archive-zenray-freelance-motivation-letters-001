@@ -1,0 +1,19 @@
+# Motivation Letters : index (7 October 2026)
+
+Catégorie créée le 7 October 2026 : une lettre de motivation par candidature, avec l'offre sauvegardée à côté, pour retrouver ce qui a été écrit et à qui. (7 October 2026)
+
+## Projet associé (7 October 2026)
+- Projet : **zenray-assets-v2** (ZenRay Assets V2), mémoire : `~/.claude/Memory1/Projects/zenray-assets-v2/Project1.md`. (7 October 2026)
+- Projet lié pour le moteur : **zenray-freelance**, gabarit de lettre : `~/.claude/Memory1/Projects/zenray-freelance/LetterTemplate1.md`. (7 October 2026)
+
+## Candidatures (une ligne par dossier, la plus ancienne en haut) (7 October 2026)
+| Date | Studio | Poste | Dossier | Statut |
+|---|---|---|---|---|
+| 7 October 2026 | Drama Studios (Rennes) | Environment Technical Artist, CDI | `DramaStudios-EnvironmentTechnicalArtist/` (`Offer.md`, `Letter.md`) | lettre prête, envoi par Matthieu |
+| 7 October 2026 | Ripple and Roll (Londres, remote) | Technical Artist, Stylised Rendering [Environments], freelance | `RippleAndRoll-TechnicalArtistStylisedEnvironments/` (`Offer.md`, `Letter.md`) | lettre prête, envoi par Matthieu |
+| 7 October 2026 | Ripple and Roll (Londres, remote) | Houdini Generalist, freelance | `RippleAndRoll-HoudiniGeneralist/` (`Offer.md`, `Letter.md`) | lettre prête, envoi par Matthieu |
+| 7 October 2026 | ArenaNet (Bellevue WA, remote) | Contract UE5 Lighting Artist (1+ an) | `ArenaNet-UE5LightingArtist/` (`Offer.md`, `Letter.md`) | lettre prête, deadline 12 oct 10h PT |
+
+## Convention (7 October 2026)
+- Un dossier par candidature : `<Studio>-<Poste>/` avec `Offer.md` (texte de l'offre) et `Letter.md` (version française puis anglaise, séparées par `---`). (7 October 2026)
+- Les lettres respectent le style de Matthieu : on ne corrige que la grammaire. (7 October 2026)
