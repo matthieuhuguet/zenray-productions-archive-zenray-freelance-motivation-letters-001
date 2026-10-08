@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-freelance",
- "scannedAt": "2026-10-08T21:57:13.731Z",
+ "scannedAt": "2026-10-08T22:14:16.938Z",
  "conversations": [
   {
    "projectId": "zenray-freelance",
@@ -53,6 +53,22 @@
   },
   {
    "projectId": "zenray-freelance",
+   "lines": 117,
+   "work": 2,
+   "prompts": 52,
+   "first": "2026-10-07T12:25:29.615Z",
+   "last": "2026-10-08T22:05:57.460Z",
+   "strength": "strong",
+   "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
+   "provider": "codex",
+   "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
+   "title": "Conversation codex 01a11653",
+   "updatedAt": "2026-10-08T22:14:09.847Z",
+   "bytes": 216742481,
+   "boundProject": "zenray-assets-v2"
+  },
+  {
+   "projectId": "zenray-freelance",
    "lines": 6,
    "work": 2,
    "prompts": 1,
@@ -66,22 +82,6 @@
    "updatedAt": "2026-10-02T10:50:10.314Z",
    "bytes": 975010,
    "boundProject": null
-  },
-  {
-   "projectId": "zenray-freelance",
-   "lines": 113,
-   "work": 1,
-   "prompts": 51,
-   "first": "2026-10-07T12:25:29.615Z",
-   "last": "2026-10-08T21:46:22.537Z",
-   "strength": "strong",
-   "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
-   "provider": "codex",
-   "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
-   "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-08T21:57:11.150Z",
-   "bytes": 211139277,
-   "boundProject": "zenray-assets-v2"
   },
   {
    "projectId": "zenray-freelance",
@@ -479,8 +479,8 @@
    "provider": "claude",
    "sessionId": "fa4b854c-d32b-463e-9994-34b34d998356",
    "title": "Montage vidéo pot tournage",
-   "updatedAt": "2026-10-08T21:56:43.337Z",
-   "bytes": 20647,
+   "updatedAt": "2026-10-08T22:11:21.164Z",
+   "bytes": 20652,
    "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
   },
   {
@@ -495,9 +495,9 @@
    "provider": "claude",
    "sessionId": "f34e2192-4574-4f42-a42a-1615ed66cbdf",
    "title": "Son Zelda modifications premium",
-   "updatedAt": "2026-10-08T21:51:56.207Z",
-   "bytes": 20740,
-   "boundProject": null
+   "updatedAt": "2026-10-08T22:00:08.016Z",
+   "bytes": 20649,
+   "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
   },
   {
    "projectId": "zenray-freelance",
