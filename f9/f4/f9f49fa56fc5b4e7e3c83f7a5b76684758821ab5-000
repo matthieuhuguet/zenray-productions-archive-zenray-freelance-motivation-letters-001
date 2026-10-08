@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-freelance",
- "scannedAt": "2026-10-08T16:42:59.042Z",
+ "scannedAt": "2026-10-08T20:37:39.179Z",
  "conversations": [
   {
    "projectId": "zenray-freelance",
@@ -30,8 +30,8 @@
    "conversationId": "gemini:f3054ac7-8f2b-4b39-8ca3-541e9a4c3012",
    "provider": "gemini",
    "sessionId": "f3054ac7-8f2b-4b39-8ca3-541e9a4c3012",
-   "title": "Conversation Gemini f3054ac7",
-   "updatedAt": "2026-10-07T16:07:43.871Z",
+   "title": "grep zenrayfreelance context j'apply faut que je réponde quoi la ? get le context via + LE PROJET zenray-freelance et toute la data base fre",
+   "updatedAt": "2026-10-07T16:07:07.197943+00:00",
    "bytes": 3010560,
    "boundProject": null
   },
@@ -69,18 +69,18 @@
   },
   {
    "projectId": "zenray-freelance",
-   "lines": 70,
+   "lines": 103,
    "work": 1,
-   "prompts": 32,
+   "prompts": 46,
    "first": "2026-10-07T12:25:29.615Z",
-   "last": "2026-10-08T16:29:49.343Z",
+   "last": "2026-10-08T20:32:51.875Z",
    "strength": "strong",
    "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
    "provider": "codex",
    "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
    "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-08T16:42:54.887Z",
-   "bytes": 131036006,
+   "updatedAt": "2026-10-08T20:37:38.969Z",
+   "bytes": 191736867,
    "boundProject": "zenray-assets-v2"
   },
   {
@@ -466,6 +466,22 @@
    "updatedAt": "2026-10-01T07:06:39.156Z",
    "bytes": 912677,
    "boundProject": null
+  },
+  {
+   "projectId": "zenray-freelance",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-08T20:13:19.641Z",
+   "last": "2026-10-08T20:13:19.641Z",
+   "strength": "weak",
+   "conversationId": "claude:fa4b854c-d32b-463e-9994-34b34d998356",
+   "provider": "claude",
+   "sessionId": "fa4b854c-d32b-463e-9994-34b34d998356",
+   "title": "Montage vidéo pot tournage",
+   "updatedAt": "2026-10-08T20:23:42.504Z",
+   "bytes": 20720,
+   "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
   },
   {
    "projectId": "zenray-freelance",
