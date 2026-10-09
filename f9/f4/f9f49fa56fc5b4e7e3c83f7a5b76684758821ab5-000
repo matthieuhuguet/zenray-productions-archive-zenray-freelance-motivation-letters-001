@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-freelance",
- "scannedAt": "2026-10-08T22:21:17.349Z",
+ "scannedAt": "2026-10-09T00:50:13.638Z",
  "conversations": [
   {
    "projectId": "zenray-freelance",
@@ -21,19 +21,35 @@
   },
   {
    "projectId": "zenray-freelance",
-   "lines": 11,
-   "work": 11,
+   "lines": 16,
+   "work": 16,
    "prompts": 0,
    "first": "2026-10-06T22:34:49.334Z",
-   "last": "2026-10-07T16:07:07.197Z",
+   "last": "2026-10-08T23:46:56.976Z",
    "strength": "strong",
    "conversationId": "gemini:f3054ac7-8f2b-4b39-8ca3-541e9a4c3012",
    "provider": "gemini",
    "sessionId": "f3054ac7-8f2b-4b39-8ca3-541e9a4c3012",
    "title": "Conversation Gemini f3054ac7",
-   "updatedAt": "2026-10-07T16:07:43.871Z",
-   "bytes": 3010560,
+   "updatedAt": "2026-10-08T23:47:39.172Z",
+   "bytes": 3915776,
    "boundProject": null
+  },
+  {
+   "projectId": "zenray-freelance",
+   "lines": 160,
+   "work": 9,
+   "prompts": 66,
+   "first": "2026-10-07T12:25:29.615Z",
+   "last": "2026-10-09T00:24:06.638Z",
+   "strength": "strong",
+   "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
+   "provider": "codex",
+   "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
+   "title": "Conversation codex 01a11653",
+   "updatedAt": "2026-10-09T00:49:49.593Z",
+   "bytes": 323102174,
+   "boundProject": "zenray-assets-v2"
   },
   {
    "projectId": "zenray-freelance",
@@ -49,22 +65,6 @@
    "title": "Conversation codex 01a0fc34",
    "updatedAt": "2026-10-06T02:03:41.129Z",
    "bytes": 118310043,
-   "boundProject": "zenray-assets-v2"
-  },
-  {
-   "projectId": "zenray-freelance",
-   "lines": 119,
-   "work": 2,
-   "prompts": 53,
-   "first": "2026-10-07T12:25:29.615Z",
-   "last": "2026-10-08T22:15:23.226Z",
-   "strength": "strong",
-   "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
-   "provider": "codex",
-   "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
-   "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-08T22:21:15.119Z",
-   "bytes": 218891138,
    "boundProject": "zenray-assets-v2"
   },
   {
@@ -479,8 +479,8 @@
    "provider": "claude",
    "sessionId": "fa4b854c-d32b-463e-9994-34b34d998356",
    "title": "Montage vidéo pot tournage",
-   "updatedAt": "2026-10-08T22:21:11.557Z",
-   "bytes": 21186194,
+   "updatedAt": "2026-10-08T22:57:52.446Z",
+   "bytes": 20711,
    "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
   },
   {

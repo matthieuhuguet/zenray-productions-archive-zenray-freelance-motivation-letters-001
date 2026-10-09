@@ -1,0 +1,28 @@
+# Lettre de motivation, Gameloft Paris, Senior Technical Artist (9 October 2026)
+
+Version ajustée : transparence assumée sur le niveau (profil intermédiaire / mid plutôt que senior de 10 ans d'expérience), tout en valorisant la maîtrise exacte de la stack (Houdini, Python, Unreal Engine) et l'autonomie sur le pipeline. (9 October 2026)
+
+## English (9 October 2026)
+
+To the recruitment team,
+
+Hello Gameloft,
+
+I am writing about your opening for Senior Technical Artist in Paris.
+
+Building a Tech Art pipeline from a blank page on a new Unreal Engine production, connecting Houdini and DCCs into a robust and documented workflow, is the exact challenge I want to take on. While my background sits as a mid-level Technical Artist rather than a tenured Senior, my hands-on practice in building procedural pipelines, writing Python tools, and integrating HDAs into Unreal Engine gives me the technical autonomy needed to lay these foundations.
+
+My name is Matthieu Huguet, I am 25 and I work as a Technical Artist. I studied a Game Design Bachelor at LISAA in Paris and a Master's at ARTFX Montpellier, followed by technical art courses at Gnomon and Harvard CS50, before working in freelance production. Having lived and studied in Paris, I am fully mobile and ready to commit to your 3-day on-site hybrid rhythm.
+
+In production, I worked as a freelance Technical Artist with Meerkat Studio on three simulation titles: Santa Simulator (shipped on Steam), Bakery Coffee Simulator (shipped on Steam), and Pet Grooming Simulator (paid contract). Earlier in my studies, I co-developed Noyes (student game). I also completed an archviz lighting project for a private client in Aix-en-Provence. All my work can be seen at matthieuhuguet.com.
+
+My core expertise directly answers the pipeline you want to build:
+- Houdini and DCC to Unreal pipeline: developing custom HDAs, modular procedural systems, and Python tooling to automate asset imports, validations, and naming conventions.
+- Unreal Engine mastery: Blueprint scripting, PBR shaders and HLSL material authoring, Niagara VFX, and performance tracking using Unreal Insights to diagnose draw calls, memory limits, and rendering bottlenecks.
+- Documentation and collaboration: writing clear technical guidelines, breaking down complex technical constraints for artistic teams, and helping fellow artists level up on UE5.
+
+Whether taking on this challenge or joining as a Technical Artist to help structure the department alongside your Tech Lead, I am ready to commit to this pre-production.
+
+I would be happy to talk with you by phone or video call, whenever suits you.
+
+Matthieu Huguet
