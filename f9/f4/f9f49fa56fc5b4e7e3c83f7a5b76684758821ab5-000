@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-freelance",
- "scannedAt": "2026-10-10T21:14:11.434Z",
+ "scannedAt": "2026-10-10T21:21:08.309Z",
  "conversations": [
   {
    "projectId": "zenray-freelance",
@@ -46,8 +46,8 @@
    "conversationId": "gemini:f3054ac7-8f2b-4b39-8ca3-541e9a4c3012",
    "provider": "gemini",
    "sessionId": "f3054ac7-8f2b-4b39-8ca3-541e9a4c3012",
-   "title": "Conversation Gemini f3054ac7",
-   "updatedAt": "2026-10-08T23:47:39.172Z",
+   "title": "grep zenrayfreelance context j'apply faut que je réponde quoi la ? get le context via + LE PROJET zenray-freelance et toute la data base fre",
+   "updatedAt": "2026-10-08T23:46:56.976361+00:00",
    "bytes": 3915776,
    "boundProject": null
   },
@@ -575,9 +575,9 @@
    "provider": "claude",
    "sessionId": "e067e0eb-400b-4769-9366-225560e7a0e4",
    "title": "Vidéo motion design OneKey Pro 2",
-   "updatedAt": "2026-10-10T21:13:53.354Z",
-   "bytes": 1343395,
-   "boundProject": null
+   "updatedAt": "2026-10-10T21:20:30.123Z",
+   "bytes": 4295777,
+   "boundProject": "zenray-motion-design-01"
   },
   {
    "projectId": "zenray-freelance",
@@ -591,8 +591,8 @@
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "title": "Monitoring film upload deployment",
-   "updatedAt": "2026-10-10T21:13:46.727Z",
-   "bytes": 20848,
+   "updatedAt": "2026-10-10T21:20:15.416Z",
+   "bytes": 20850,
    "boundProject": null
   },
   {
@@ -607,8 +607,8 @@
    "provider": "claude",
    "sessionId": "5be85b54-ff94-4c79-8cab-7131103e6d68",
    "title": "Zenray design view link bug",
-   "updatedAt": "2026-10-10T21:03:31.921Z",
-   "bytes": 20967,
+   "updatedAt": "2026-10-10T21:16:40.595Z",
+   "bytes": 20944,
    "boundProject": null
   },
   {
