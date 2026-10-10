@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-freelance",
- "scannedAt": "2026-10-10T20:59:06.766Z",
+ "scannedAt": "2026-10-10T21:14:11.434Z",
  "conversations": [
   {
    "projectId": "zenray-freelance",
@@ -568,15 +568,15 @@
    "lines": 1,
    "work": 0,
    "prompts": 0,
-   "first": "2026-10-10T20:50:25.142Z",
-   "last": "2026-10-10T20:50:25.142Z",
+   "first": "2026-10-10T21:07:39.124Z",
+   "last": "2026-10-10T21:07:39.124Z",
    "strength": "weak",
-   "conversationId": "claude:5be85b54-ff94-4c79-8cab-7131103e6d68",
+   "conversationId": "claude:e067e0eb-400b-4769-9366-225560e7a0e4",
    "provider": "claude",
-   "sessionId": "5be85b54-ff94-4c79-8cab-7131103e6d68",
-   "title": "Zenray design view link bug",
-   "updatedAt": "2026-10-10T20:59:01.687Z",
-   "bytes": 2694039,
+   "sessionId": "e067e0eb-400b-4769-9366-225560e7a0e4",
+   "title": "Vidéo motion design OneKey Pro 2",
+   "updatedAt": "2026-10-10T21:13:53.354Z",
+   "bytes": 1343395,
    "boundProject": null
   },
   {
@@ -591,8 +591,24 @@
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "title": "Monitoring film upload deployment",
-   "updatedAt": "2026-10-10T20:58:08.395Z",
-   "bytes": 20977,
+   "updatedAt": "2026-10-10T21:13:46.727Z",
+   "bytes": 20848,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-freelance",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-10T20:50:25.142Z",
+   "last": "2026-10-10T20:50:25.142Z",
+   "strength": "weak",
+   "conversationId": "claude:5be85b54-ff94-4c79-8cab-7131103e6d68",
+   "provider": "claude",
+   "sessionId": "5be85b54-ff94-4c79-8cab-7131103e6d68",
+   "title": "Zenray design view link bug",
+   "updatedAt": "2026-10-10T21:03:31.921Z",
+   "bytes": 20967,
    "boundProject": null
   },
   {
