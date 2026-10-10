@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-freelance",
- "scannedAt": "2026-10-10T22:39:30.694Z",
+ "scannedAt": "2026-10-10T22:47:30.781Z",
  "conversations": [
   {
    "projectId": "zenray-freelance",
@@ -223,8 +223,8 @@
    "provider": "claude",
    "sessionId": "2562b086-836d-49c5-80c7-0c935a98513c",
    "title": "Vegetations Creating Materials October 2026",
-   "updatedAt": "2026-10-10T22:39:13.276Z",
-   "bytes": 1401717529,
+   "updatedAt": "2026-10-10T22:45:05.391Z",
+   "bytes": 24003,
    "boundProject": "vegetation-assets-collection-01"
   },
   {
@@ -591,8 +591,8 @@
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "title": "Monitoring film upload deployment",
-   "updatedAt": "2026-10-10T22:39:22.022Z",
-   "bytes": 20849,
+   "updatedAt": "2026-10-10T22:47:23.553Z",
+   "bytes": 20850,
    "boundProject": null
   },
   {
