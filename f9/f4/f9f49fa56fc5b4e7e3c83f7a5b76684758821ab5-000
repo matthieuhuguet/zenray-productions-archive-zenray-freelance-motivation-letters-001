@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-freelance",
- "scannedAt": "2026-10-10T11:24:03.548Z",
+ "scannedAt": "2026-10-10T11:34:02.656Z",
  "conversations": [
   {
    "projectId": "zenray-freelance",
@@ -21,18 +21,18 @@
   },
   {
    "projectId": "zenray-freelance",
-   "lines": 329,
+   "lines": 331,
    "work": 28,
-   "prompts": 130,
+   "prompts": 131,
    "first": "2026-10-07T12:25:29.615Z",
-   "last": "2026-10-10T10:23:04.388Z",
+   "last": "2026-10-10T11:25:11.630Z",
    "strength": "strong",
    "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
    "provider": "codex",
    "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
    "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-10T11:23:20.125Z",
-   "bytes": 849340748,
+   "updatedAt": "2026-10-10T11:25:19.514Z",
+   "bytes": 854702497,
    "boundProject": "zenray-assets-v2"
   },
   {
@@ -46,8 +46,8 @@
    "conversationId": "gemini:f3054ac7-8f2b-4b39-8ca3-541e9a4c3012",
    "provider": "gemini",
    "sessionId": "f3054ac7-8f2b-4b39-8ca3-541e9a4c3012",
-   "title": "Conversation Gemini f3054ac7",
-   "updatedAt": "2026-10-08T23:47:39.172Z",
+   "title": "grep zenrayfreelance context j'apply faut que je réponde quoi la ? get le context via + LE PROJET zenray-freelance et toute la data base fre",
+   "updatedAt": "2026-10-08T23:46:56.976361+00:00",
    "bytes": 3915776,
    "boundProject": null
   },
@@ -223,8 +223,8 @@
    "provider": "claude",
    "sessionId": "2562b086-836d-49c5-80c7-0c935a98513c",
    "title": "Vegetations Creating Materials October 2026",
-   "updatedAt": "2026-10-10T11:23:55.338Z",
-   "bytes": 1230219669,
+   "updatedAt": "2026-10-10T11:33:59.753Z",
+   "bytes": 1235357511,
    "boundProject": "vegetation-assets-collection-01"
   },
   {
