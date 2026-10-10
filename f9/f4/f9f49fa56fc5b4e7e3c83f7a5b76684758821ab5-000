@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-freelance",
- "scannedAt": "2026-10-10T21:31:06.870Z",
+ "scannedAt": "2026-10-10T21:40:07.555Z",
  "conversations": [
   {
    "projectId": "zenray-freelance",
@@ -223,8 +223,8 @@
    "provider": "claude",
    "sessionId": "2562b086-836d-49c5-80c7-0c935a98513c",
    "title": "Vegetations Creating Materials October 2026",
-   "updatedAt": "2026-10-10T21:27:23.262Z",
-   "bytes": 23939,
+   "updatedAt": "2026-10-10T21:37:55.578Z",
+   "bytes": 23929,
    "boundProject": "vegetation-assets-collection-01"
   },
   {
@@ -568,16 +568,16 @@
    "lines": 1,
    "work": 0,
    "prompts": 0,
-   "first": "2026-10-10T20:50:25.142Z",
-   "last": "2026-10-10T20:50:25.142Z",
+   "first": "2026-10-10T21:07:39.124Z",
+   "last": "2026-10-10T21:07:39.124Z",
    "strength": "weak",
-   "conversationId": "claude:5be85b54-ff94-4c79-8cab-7131103e6d68",
+   "conversationId": "claude:e067e0eb-400b-4769-9366-225560e7a0e4",
    "provider": "claude",
-   "sessionId": "5be85b54-ff94-4c79-8cab-7131103e6d68",
-   "title": "Zenray design view link bug",
-   "updatedAt": "2026-10-10T21:31:03.808Z",
-   "bytes": 3905410,
-   "boundProject": null
+   "sessionId": "e067e0eb-400b-4769-9366-225560e7a0e4",
+   "title": "Vidéo motion design OneKey Pro 2",
+   "updatedAt": "2026-10-10T21:40:00.342Z",
+   "bytes": 7765329,
+   "boundProject": "zenray-motion-design-01"
   },
   {
    "projectId": "zenray-freelance",
@@ -591,8 +591,8 @@
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "title": "Monitoring film upload deployment",
-   "updatedAt": "2026-10-10T21:31:03.598Z",
-   "bytes": 2287519,
+   "updatedAt": "2026-10-10T21:39:27.339Z",
+   "bytes": 20855,
    "boundProject": null
   },
   {
@@ -600,16 +600,16 @@
    "lines": 1,
    "work": 0,
    "prompts": 0,
-   "first": "2026-10-10T21:07:39.124Z",
-   "last": "2026-10-10T21:07:39.124Z",
+   "first": "2026-10-10T20:50:25.142Z",
+   "last": "2026-10-10T20:50:25.142Z",
    "strength": "weak",
-   "conversationId": "claude:e067e0eb-400b-4769-9366-225560e7a0e4",
+   "conversationId": "claude:5be85b54-ff94-4c79-8cab-7131103e6d68",
    "provider": "claude",
-   "sessionId": "e067e0eb-400b-4769-9366-225560e7a0e4",
-   "title": "Vidéo motion design OneKey Pro 2",
-   "updatedAt": "2026-10-10T21:26:37.928Z",
-   "bytes": 4636750,
-   "boundProject": "zenray-motion-design-01"
+   "sessionId": "5be85b54-ff94-4c79-8cab-7131103e6d68",
+   "title": "Zenray design view link bug",
+   "updatedAt": "2026-10-10T21:32:46.778Z",
+   "bytes": 20927,
+   "boundProject": null
   },
   {
    "projectId": "zenray-freelance",
