@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-freelance",
- "scannedAt": "2026-10-11T11:40:22.096Z",
+ "scannedAt": "2026-10-11T11:43:20.867Z",
  "conversations": [
   {
    "projectId": "zenray-freelance",
@@ -152,6 +152,22 @@
    "lines": 14,
    "work": 0,
    "prompts": 7,
+   "first": "2026-10-08T08:32:52.034Z",
+   "last": "2026-10-11T11:42:57.134Z",
+   "strength": "strong",
+   "conversationId": "codex:01a11aa4-67bb-7ae1-b1d8-99af0c3495c3",
+   "provider": "codex",
+   "sessionId": "01a11aa4-67bb-7ae1-b1d8-99af0c3495c3",
+   "title": "Conversation codex 01a11aa4",
+   "updatedAt": "2026-10-11T11:42:57.232Z",
+   "bytes": 111802641,
+   "boundProject": "louisiana-bayou"
+  },
+  {
+   "projectId": "zenray-freelance",
+   "lines": 14,
+   "work": 0,
+   "prompts": 7,
    "first": "2026-10-03T13:44:52.347Z",
    "last": "2026-10-07T09:48:06.333Z",
    "strength": "strong",
@@ -162,22 +178,6 @@
    "updatedAt": "2026-10-07T10:15:35.851Z",
    "bytes": 22009465,
    "boundProject": "zenray-dictate"
-  },
-  {
-   "projectId": "zenray-freelance",
-   "lines": 12,
-   "work": 0,
-   "prompts": 6,
-   "first": "2026-10-08T08:32:52.034Z",
-   "last": "2026-10-09T12:08:55.065Z",
-   "strength": "strong",
-   "conversationId": "codex:01a11aa4-67bb-7ae1-b1d8-99af0c3495c3",
-   "provider": "codex",
-   "sessionId": "01a11aa4-67bb-7ae1-b1d8-99af0c3495c3",
-   "title": "Conversation codex 01a11aa4",
-   "updatedAt": "2026-10-10T15:10:31.577Z",
-   "bytes": 110695599,
-   "boundProject": "louisiana-bayou"
   },
   {
    "projectId": "zenray-freelance",
