@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-freelance",
- "scannedAt": "2026-10-11T14:08:23.124Z",
+ "scannedAt": "2026-10-11T14:17:27.472Z",
  "conversations": [
   {
    "projectId": "zenray-freelance",
@@ -600,16 +600,16 @@
    "lines": 1,
    "work": 0,
    "prompts": 0,
-   "first": "2026-10-11T14:00:22.037Z",
-   "last": "2026-10-11T14:00:22.037Z",
+   "first": "2026-10-11T14:09:59.235Z",
+   "last": "2026-10-11T14:09:59.235Z",
    "strength": "weak",
-   "conversationId": "claude:1b717209-2f46-4bf9-bb75-32feced5db13",
+   "conversationId": "claude:3a9c2407-7dcc-4acd-baf2-90a94300e953",
    "provider": "claude",
-   "sessionId": "1b717209-2f46-4bf9-bb75-32feced5db13",
-   "title": "Méthode optimale height map IA",
-   "updatedAt": "2026-10-11T14:00:22.481Z",
-   "bytes": 20453,
-   "boundProject": null
+   "sessionId": "3a9c2407-7dcc-4acd-baf2-90a94300e953",
+   "title": "ZENRAY HEIGHT",
+   "updatedAt": "2026-10-11T14:17:17.657Z",
+   "bytes": 3750756,
+   "boundProject": "zenray-height"
   },
   {
    "projectId": "zenray-freelance",
@@ -622,9 +622,41 @@
    "conversationId": "claude:3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
-   "title": "Monitoring film upload deployment",
-   "updatedAt": "2026-10-11T12:58:19.611Z",
-   "bytes": 21061,
+   "title": "DRIVE",
+   "updatedAt": "2026-10-11T14:17:16.006Z",
+   "bytes": 5554499,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-freelance",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-11T14:11:25.131Z",
+   "last": "2026-10-11T14:11:25.131Z",
+   "strength": "weak",
+   "conversationId": "claude:8152bc29-16c2-4858-828d-937ab6240571",
+   "provider": "claude",
+   "sessionId": "8152bc29-16c2-4858-828d-937ab6240571",
+   "title": "LOUISIANA BAYOU",
+   "updatedAt": "2026-10-11T14:12:36.897Z",
+   "bytes": 20923,
+   "boundProject": "louisiana-bayou"
+  },
+  {
+   "projectId": "zenray-freelance",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-11T14:00:22.037Z",
+   "last": "2026-10-11T14:00:22.037Z",
+   "strength": "weak",
+   "conversationId": "claude:1b717209-2f46-4bf9-bb75-32feced5db13",
+   "provider": "claude",
+   "sessionId": "1b717209-2f46-4bf9-bb75-32feced5db13",
+   "title": "Méthode optimale height map IA",
+   "updatedAt": "2026-10-11T14:00:22.481Z",
+   "bytes": 20453,
    "boundProject": null
   },
   {
