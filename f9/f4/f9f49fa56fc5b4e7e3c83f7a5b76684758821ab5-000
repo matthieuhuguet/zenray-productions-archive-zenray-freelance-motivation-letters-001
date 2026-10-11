@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-freelance",
- "scannedAt": "2026-10-11T11:43:20.867Z",
+ "scannedAt": "2026-10-11T11:45:21.780Z",
  "conversations": [
   {
    "projectId": "zenray-freelance",
@@ -159,8 +159,8 @@
    "provider": "codex",
    "sessionId": "01a11aa4-67bb-7ae1-b1d8-99af0c3495c3",
    "title": "Conversation codex 01a11aa4",
-   "updatedAt": "2026-10-11T11:42:57.232Z",
-   "bytes": 111802641,
+   "updatedAt": "2026-10-11T11:43:33.069Z",
+   "bytes": 111808195,
    "boundProject": "louisiana-bayou"
   },
   {
@@ -584,6 +584,22 @@
    "lines": 1,
    "work": 0,
    "prompts": 0,
+   "first": "2026-10-10T20:53:28.651Z",
+   "last": "2026-10-10T20:53:28.651Z",
+   "strength": "weak",
+   "conversationId": "claude:3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
+   "provider": "claude",
+   "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
+   "title": "Monitoring film upload deployment",
+   "updatedAt": "2026-10-11T11:45:17.700Z",
+   "bytes": 5224582,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-freelance",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-10-11T08:38:03.043Z",
    "last": "2026-10-11T08:38:03.043Z",
    "strength": "weak",
@@ -594,22 +610,6 @@
    "updatedAt": "2026-10-11T11:39:10.426Z",
    "bytes": 20782,
    "boundProject": "conversation-claude-3918c05f2e72431e7521d763"
-  },
-  {
-   "projectId": "zenray-freelance",
-   "lines": 1,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-10T20:53:28.651Z",
-   "last": "2026-10-10T20:53:28.651Z",
-   "strength": "weak",
-   "conversationId": "claude:3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
-   "provider": "claude",
-   "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
-   "title": "Monitoring film upload deployment",
-   "updatedAt": "2026-10-11T09:25:41.606Z",
-   "bytes": 21052,
-   "boundProject": null
   },
   {
    "projectId": "zenray-freelance",
