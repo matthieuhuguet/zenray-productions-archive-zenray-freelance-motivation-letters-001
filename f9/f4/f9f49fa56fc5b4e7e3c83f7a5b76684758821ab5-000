@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-freelance",
- "scannedAt": "2026-10-11T08:49:55.224Z",
+ "scannedAt": "2026-10-11T09:11:56.470Z",
  "conversations": [
   {
    "projectId": "zenray-freelance",
@@ -223,8 +223,8 @@
    "provider": "claude",
    "sessionId": "2562b086-836d-49c5-80c7-0c935a98513c",
    "title": "Vegetations Creating Materials October 2026",
-   "updatedAt": "2026-10-11T08:49:44.995Z",
-   "bytes": 1421820325,
+   "updatedAt": "2026-10-11T08:50:01.185Z",
+   "bytes": 23849,
    "boundProject": "vegetation-assets-collection-01"
   },
   {
@@ -584,22 +584,6 @@
    "lines": 1,
    "work": 0,
    "prompts": 0,
-   "first": "2026-10-11T08:38:03.043Z",
-   "last": "2026-10-11T08:38:03.043Z",
-   "strength": "weak",
-   "conversationId": "claude:6ab0a8c4-7fa2-46a1-b1f4-282a74f8f6f2",
-   "provider": "claude",
-   "sessionId": "6ab0a8c4-7fa2-46a1-b1f4-282a74f8f6f2",
-   "title": "Installation Blender macOS",
-   "updatedAt": "2026-10-11T08:49:54.733Z",
-   "bytes": 1479690,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-freelance",
-   "lines": 1,
-   "work": 0,
-   "prompts": 0,
    "first": "2026-10-10T20:53:28.651Z",
    "last": "2026-10-10T20:53:28.651Z",
    "strength": "weak",
@@ -607,9 +591,25 @@
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "title": "Monitoring film upload deployment",
-   "updatedAt": "2026-10-11T08:43:08.717Z",
-   "bytes": 20980,
+   "updatedAt": "2026-10-11T09:11:27.452Z",
+   "bytes": 20903,
    "boundProject": null
+  },
+  {
+   "projectId": "zenray-freelance",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-11T08:38:03.043Z",
+   "last": "2026-10-11T08:38:03.043Z",
+   "strength": "weak",
+   "conversationId": "claude:6ab0a8c4-7fa2-46a1-b1f4-282a74f8f6f2",
+   "provider": "claude",
+   "sessionId": "6ab0a8c4-7fa2-46a1-b1f4-282a74f8f6f2",
+   "title": "Installation Blender macOS",
+   "updatedAt": "2026-10-11T08:51:19.662Z",
+   "bytes": 20889,
+   "boundProject": "conversation-claude-3918c05f2e72431e7521d763"
   },
   {
    "projectId": "zenray-freelance",
