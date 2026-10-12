@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-freelance",
- "scannedAt": "2026-10-12T08:34:36.241Z",
+ "scannedAt": "2026-10-12T10:36:58.677Z",
  "conversations": [
   {
    "projectId": "zenray-freelance",
@@ -46,10 +46,26 @@
    "conversationId": "gemini:f3054ac7-8f2b-4b39-8ca3-541e9a4c3012",
    "provider": "gemini",
    "sessionId": "f3054ac7-8f2b-4b39-8ca3-541e9a4c3012",
-   "title": "grep zenrayfreelance context j'apply faut que je réponde quoi la ? get le context via + LE PROJET zenray-freelance et toute la data base fre",
-   "updatedAt": "2026-10-08T23:46:56.976361+00:00",
+   "title": "Conversation Gemini f3054ac7",
+   "updatedAt": "2026-10-08T23:47:39.172Z",
    "bytes": 3915776,
-   "boundProject": null
+   "boundProject": "zenray-freelance"
+  },
+  {
+   "projectId": "zenray-freelance",
+   "lines": 35,
+   "work": 8,
+   "prompts": 0,
+   "first": "2026-10-12T08:37:20.686Z",
+   "last": "2026-10-12T08:51:45.520Z",
+   "strength": "strong",
+   "conversationId": "claude:5eff1aab-c6ea-4a74-81cf-51380f6fc653",
+   "provider": "claude",
+   "sessionId": "5eff1aab-c6ea-4a74-81cf-51380f6fc653",
+   "title": "ZENRAY FREELANCE",
+   "updatedAt": "2026-10-12T09:20:36.604Z",
+   "bytes": 20881,
+   "boundProject": "zenray-freelance"
   },
   {
    "projectId": "zenray-freelance",
@@ -149,18 +165,18 @@
   },
   {
    "projectId": "zenray-freelance",
-   "lines": 18,
+   "lines": 20,
    "work": 0,
-   "prompts": 9,
+   "prompts": 10,
    "first": "2026-10-08T08:32:52.034Z",
-   "last": "2026-10-11T23:52:07.826Z",
+   "last": "2026-10-12T09:24:46.363Z",
    "strength": "strong",
    "conversationId": "codex:01a11aa4-67bb-7ae1-b1d8-99af0c3495c3",
    "provider": "codex",
    "sessionId": "01a11aa4-67bb-7ae1-b1d8-99af0c3495c3",
    "title": "Conversation codex 01a11aa4",
-   "updatedAt": "2026-10-12T00:00:25.407Z",
-   "bytes": 136502672,
+   "updatedAt": "2026-10-12T09:47:57.816Z",
+   "bytes": 137079623,
    "boundProject": "louisiana-bayou"
   },
   {
@@ -197,18 +213,18 @@
   },
   {
    "projectId": "zenray-freelance",
-   "lines": 6,
+   "lines": 8,
    "work": 0,
-   "prompts": 3,
+   "prompts": 4,
    "first": "2026-10-10T08:31:16.258Z",
-   "last": "2026-10-10T09:05:01.297Z",
+   "last": "2026-10-12T10:32:37.588Z",
    "strength": "strong",
    "conversationId": "codex:01a124f0-0c66-7462-b1ff-038af6783afb",
    "provider": "codex",
    "sessionId": "01a124f0-0c66-7462-b1ff-038af6783afb",
    "title": "Conversation codex 01a124f0",
-   "updatedAt": "2026-10-10T09:06:21.955Z",
-   "bytes": 12735367,
+   "updatedAt": "2026-10-12T10:36:57.022Z",
+   "bytes": 16261562,
    "boundProject": "conversation-codex-aec1fa9e2736c44185ca1c87"
   },
   {
@@ -293,6 +309,22 @@
   },
   {
    "projectId": "zenray-freelance",
+   "lines": 5,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-12T00:43:49.456Z",
+   "last": "2026-10-12T10:19:36.916Z",
+   "strength": "weak",
+   "conversationId": "claude:7e78b89b-c9f6-435b-aeea-a9878d6c808b",
+   "provider": "claude",
+   "sessionId": "7e78b89b-c9f6-435b-aeea-a9878d6c808b",
+   "title": "Motion Design GLSL",
+   "updatedAt": "2026-10-12T10:36:46.844Z",
+   "bytes": 21828248,
+   "boundProject": "zenray-motion-design"
+  },
+  {
+   "projectId": "zenray-freelance",
    "lines": 4,
    "work": 0,
    "prompts": 0,
@@ -303,8 +335,8 @@
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "title": "DRIVE",
-   "updatedAt": "2026-10-12T08:31:08.551Z",
-   "bytes": 20935,
+   "updatedAt": "2026-10-12T10:30:06.760Z",
+   "bytes": 20923,
    "boundProject": null
   },
   {
@@ -328,16 +360,16 @@
    "lines": 3,
    "work": 0,
    "prompts": 0,
-   "first": "2026-10-12T00:43:49.456Z",
-   "last": "2026-10-12T01:01:18.460Z",
+   "first": "2026-10-12T09:52:06.211Z",
+   "last": "2026-10-12T10:10:26.635Z",
    "strength": "weak",
-   "conversationId": "claude:7e78b89b-c9f6-435b-aeea-a9878d6c808b",
+   "conversationId": "claude:d71651de-2d57-45d0-b20d-830dd146d2ac",
    "provider": "claude",
-   "sessionId": "7e78b89b-c9f6-435b-aeea-a9878d6c808b",
-   "title": "Motion Design V2",
-   "updatedAt": "2026-10-12T08:33:55.693Z",
-   "bytes": 8249200,
-   "boundProject": "zenray-motion-design"
+   "sessionId": "d71651de-2d57-45d0-b20d-830dd146d2ac",
+   "title": "ZenRay Assets UI rework",
+   "updatedAt": "2026-10-12T10:15:09.570Z",
+   "bytes": 20896,
+   "boundProject": null
   },
   {
    "projectId": "zenray-freelance",
